@@ -37,4 +37,4 @@ jobs:
 
       - name: Update book ban google sheet
         run: 
-          Rscript R/Book Bans.R
+          Rscript R/Book_Bans.R
