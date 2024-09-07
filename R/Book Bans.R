@@ -2,7 +2,6 @@
 
 library(tidyverse)
 library(readxl)
-library(SKTools)
 library(stats)
 library(caret)
 library(corrplot)

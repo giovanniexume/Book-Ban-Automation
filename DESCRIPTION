@@ -5,7 +5,6 @@ Imports:
     googlesheets4,
     tidyverse,
     readxl,
-    SKTools,
     stats,
     caret,
     corrplot,
