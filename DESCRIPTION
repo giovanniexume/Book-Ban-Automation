@@ -1,6 +1,16 @@
-Package: Automation in R
+Package: Automation for Book Bans Script
 Version: 0.0.0.9000
-Description: Automate R scripts
+Description: Automate R script for Book Bans
 Imports: 
     googlesheets4,
-    
+    tidyverse,
+    readxl,
+    SKTools,
+    stats,
+    caret,
+    corrplot,
+    janitor,
+    broom,
+    sur,
+    openxlsx,
+    googlesheets4
