@@ -1,1 +1,1 @@
-Testing workflows to automate R scripts that will automatically load book ban data and analysis to Google Sheets through Github Actions
+This is a workflow to automate R scripts that will load the PEN America book ban data and analysis to Google Sheets through Github Actions
